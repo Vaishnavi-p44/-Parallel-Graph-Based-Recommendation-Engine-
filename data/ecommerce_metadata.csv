@@ -1,0 +1,61 @@
+item_id,title,category,price,description
+P201,AcousticPro Wireless Noise-Cancelling Headphones,Audio,249.99,Over-ear active noise cancelling with 40h battery.
+P202,BassPulse Mini Bluetooth Speaker,Audio,59.99,Waterproof IPX7 outdoor speaker with rich bass.
+P203,StudioMaster Reference Monitors,Audio,399.0,Near-field studio powered monitors with flat frequency response.
+P204,TrueSonic ANC Earbuds,Audio,129.99,Compact wireless earbuds with spatial audio and wireless charging.
+P205,VocalStream USB Condenser Microphone,Audio,89.99,Cardioid studio mic for podcasting and streaming.
+P206,UltraSlim 14-inch OLED Laptop,Computing,1099.99,"Powered by ultra-fast processor, 32GB RAM, 1TB NVMe."
+P207,QuantumMechanical Ergonomic Keyboard,Computing,149.99,Hot-swappable tactile switches with RGB per-key backlighting.
+P208,PrecisionFlow Wireless Mouse,Computing,79.99,High-precision sensor with ergonomic thumb rest and dual Bluetooth.
+P209,ThunderBolt 4 Multi-Port Docking Station,Computing,179.99,"Dual 4K display output, 100W power delivery, 10Gbps USB-C."
+P210,SwiftDrive 2TB Portable SSD,Computing,159.99,Shock-resistant aluminum enclosure with 2000 MB/s read speed.
+P211,TitanForge RTX Gaming Desktop,Gaming,1899.0,Water-cooled gaming rig optimized for 4K ray-traced gaming.
+P212,HyperView 27-inch 165Hz Curved Monitor,Gaming,299.99,QHD 1ms response time gaming display with FreeSync.
+P213,TacticalStrike Wireless Gamepad,Gaming,69.99,"Hall-effect joysticks, hair triggers, and remappable back paddles."
+P214,AeroComfort Ergonomic Gaming Chair,Gaming,289.99,Breathable mesh back with lumbar cushion and 4D armrests.
+P215,RGB Prism Extended Desk Mat,Gaming,29.99,Micro-textured cloth surface with 14 customizable lighting modes.
+P216,AuraFit Health & Fitness Smartwatch,Wearables,199.99,"Continuous SpO2, heart rate, ECG, and multi-day GPS tracking."
+P217,GlowSmart Ambience LED Light Strip,Smart Home,39.99,Wi-Fi enabled sync-to-music smart RGBIC lighting strip.
+P218,PureBreeze HEPA Smart Air Purifier,Smart Home,149.99,Filters 99.97% of airborne allergens with smartphone app control.
+P219,ThermoSense Wi-Fi Smart Thermostat,Smart Home,169.99,Energy saving adaptive schedule with remote room sensors.
+P220,VisionSecure 2K Outdoor Security Camera,Smart Home,89.99,Solar-powered weatherproof camera with color night vision.
+P221,Audio Pro Series Model 1,Audio,196.69,High-performance audio accessory designed for enthusiasts.
+P222,Audio Pro Series Model 2,Audio,110.03,High-performance audio accessory designed for enthusiasts.
+P223,Audio Pro Series Model 3,Audio,100.99,High-performance audio accessory designed for enthusiasts.
+P224,Audio Pro Series Model 4,Audio,130.58,High-performance audio accessory designed for enthusiasts.
+P225,Audio Pro Series Model 5,Audio,347.95,High-performance audio accessory designed for enthusiasts.
+P226,Audio Pro Series Model 6,Audio,131.74,High-performance audio accessory designed for enthusiasts.
+P227,Audio Pro Series Model 7,Audio,187.8,High-performance audio accessory designed for enthusiasts.
+P228,Audio Pro Series Model 8,Audio,315.83,High-performance audio accessory designed for enthusiasts.
+P229,Computing Pro Series Model 1,Computing,253.92,High-performance computing accessory designed for enthusiasts.
+P230,Computing Pro Series Model 2,Computing,423.81,High-performance computing accessory designed for enthusiasts.
+P231,Computing Pro Series Model 3,Computing,232.94,High-performance computing accessory designed for enthusiasts.
+P232,Computing Pro Series Model 4,Computing,204.2,High-performance computing accessory designed for enthusiasts.
+P233,Computing Pro Series Model 5,Computing,285.62,High-performance computing accessory designed for enthusiasts.
+P234,Computing Pro Series Model 6,Computing,117.09,High-performance computing accessory designed for enthusiasts.
+P235,Computing Pro Series Model 7,Computing,408.35,High-performance computing accessory designed for enthusiasts.
+P236,Computing Pro Series Model 8,Computing,183.94,High-performance computing accessory designed for enthusiasts.
+P237,Gaming Pro Series Model 1,Gaming,189.95,High-performance gaming accessory designed for enthusiasts.
+P238,Gaming Pro Series Model 2,Gaming,315.01,High-performance gaming accessory designed for enthusiasts.
+P239,Gaming Pro Series Model 3,Gaming,89.72,High-performance gaming accessory designed for enthusiasts.
+P240,Gaming Pro Series Model 4,Gaming,305.74,High-performance gaming accessory designed for enthusiasts.
+P241,Gaming Pro Series Model 5,Gaming,386.24,High-performance gaming accessory designed for enthusiasts.
+P242,Gaming Pro Series Model 6,Gaming,168.99,High-performance gaming accessory designed for enthusiasts.
+P243,Gaming Pro Series Model 7,Gaming,427.42,High-performance gaming accessory designed for enthusiasts.
+P244,Gaming Pro Series Model 8,Gaming,249.7,High-performance gaming accessory designed for enthusiasts.
+P245,Wearables Pro Series Model 1,Wearables,354.15,High-performance wearables accessory designed for enthusiasts.
+P246,Wearables Pro Series Model 2,Wearables,224.34,High-performance wearables accessory designed for enthusiasts.
+P247,Wearables Pro Series Model 3,Wearables,196.11,High-performance wearables accessory designed for enthusiasts.
+P248,Wearables Pro Series Model 4,Wearables,139.49,High-performance wearables accessory designed for enthusiasts.
+P249,Wearables Pro Series Model 5,Wearables,28.24,High-performance wearables accessory designed for enthusiasts.
+P250,Wearables Pro Series Model 6,Wearables,111.6,High-performance wearables accessory designed for enthusiasts.
+P251,Wearables Pro Series Model 7,Wearables,445.57,High-performance wearables accessory designed for enthusiasts.
+P252,Wearables Pro Series Model 8,Wearables,252.08,High-performance wearables accessory designed for enthusiasts.
+P253,Smart Home Pro Series Model 1,Smart Home,221.39,High-performance smart home accessory designed for enthusiasts.
+P254,Smart Home Pro Series Model 2,Smart Home,407.6,High-performance smart home accessory designed for enthusiasts.
+P255,Smart Home Pro Series Model 3,Smart Home,282.34,High-performance smart home accessory designed for enthusiasts.
+P256,Smart Home Pro Series Model 4,Smart Home,440.1,High-performance smart home accessory designed for enthusiasts.
+P257,Smart Home Pro Series Model 5,Smart Home,176.95,High-performance smart home accessory designed for enthusiasts.
+P258,Smart Home Pro Series Model 6,Smart Home,116.72,High-performance smart home accessory designed for enthusiasts.
+P259,Smart Home Pro Series Model 7,Smart Home,416.32,High-performance smart home accessory designed for enthusiasts.
+P260,Smart Home Pro Series Model 8,Smart Home,93.35,High-performance smart home accessory designed for enthusiasts.
